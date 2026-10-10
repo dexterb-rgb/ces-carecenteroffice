@@ -1,0 +1,6 @@
+{
+  "name": "CES Care Center Office",
+  "description": "Care Center Office of Caniogan Elementary School - Guidance and Student Well-being portal by Dexter B. Dacuma, School Counselor Associate I (SDO City of Malolos).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
